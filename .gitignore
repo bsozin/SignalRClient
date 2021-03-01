@@ -1,0 +1,45 @@
+# Ignore new VS2015 user settings folder
+/.vs/
+
+# Ignore Project Rider config folder
+/.idea/
+
+# Ignore .orig files (original revisions written by Git on merge conflicts)
+*.orig
+
+# Ignore thumbnails created by Windows
+Thumbs.db
+
+# Ignore files built by Visual Studio
+[Bb]in/
+obj/
+csx/
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.cache
+*.ilk
+*.log
+*.sbr
+
+# Tools
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+.sass-cache/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Mac-related stuff
+.DS_Store
+
+# Rider files
+.idea
